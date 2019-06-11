@@ -45,7 +45,7 @@ function sanitizePhoneNumber(rawPhone) {
 
 // Script block
 if (require.main === module) {
-  makeVoiceCall('+13138192575', '+17345029056');
+  makeVoiceCall('Initializer number', 'Receiving number');
 }
 
 
