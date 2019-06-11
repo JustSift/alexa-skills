@@ -1,8 +1,8 @@
 # Alexa Skills
 Alexa Skills for interacting with Sift.
 
-**Disclaimer**  
-Use at your own risk! This codebase and Sift Alexa Skills are not supported by Sift.
+## Disclaimer
+__*Use at your own risk! This codebase and Sift Alexa Skills are not supported by Sift.*__
 
 This project is the outcome of a Hackathon event that Sift attended in early 2018.
 
