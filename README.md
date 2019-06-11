@@ -11,8 +11,8 @@ Additionally this codebase consumes an internal Sift API which can/will change
 without notice. Fortunately the internal endpoint being used is a mature one and
 shouldn't™ change much
 
-There is a Sift API in the works -- currently in Alpha. Feel free to reach
-out to the Sift team with any inquires regarding SiftAPI.
+There is a external Sift API in the works -- currently in Alpha. Please reach
+out to api@justsift.com with any inquires regarding SiftAPI.
 
 ## Intents
 
