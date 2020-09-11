@@ -6,7 +6,7 @@
     "alexa-sdk": "^1.0.10",
     "custom-error-generator": "^7.0.0",
     "lodash": "^4.17.4",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "ssml-builder": "^0.4.1",
     "twilio": "^3.11.0"
   },
